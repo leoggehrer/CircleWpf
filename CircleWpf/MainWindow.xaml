@@ -30,7 +30,7 @@
 			<Button Content="Ändern" Width="95" Margin="6" Height="25"  Click="Button_Click"></Button>
 		</StackPanel>
 		<!--Col3-->
-		<Ellipse x:Name="Circle" Grid.Row="3" Grid.Column="2" Height="100" Width="100" Fill="blue"></Ellipse>
+		<Ellipse x:Name="Circle" Grid.Row="3" Grid.Column="2" Height="100" Width="100" Fill="Red"></Ellipse>
 
 
 
